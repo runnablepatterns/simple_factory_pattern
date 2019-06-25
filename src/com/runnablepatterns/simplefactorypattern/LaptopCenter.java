@@ -7,7 +7,7 @@ import com.runnablepatterns.decoratorpattern.Laptop;
  * @author Carlos Marin
  * Runnable Patterns (runnablepatterns.com)
  * 
- * Class to handle laptop shipment and assembly processe
+ * Class to handle laptop shipment and assembly processes
  *
  */
 public class LaptopCenter {
